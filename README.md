@@ -5,7 +5,7 @@ HERE is the Link to my Project
 
 https://blog.iaditi.in/
 
-Tech Stacks :
+# Tech Stacks :
 
 1. MongoDB
 2. ExpressJs
@@ -15,5 +15,5 @@ Tech Stacks :
 6. DigitalOcean(Virtual Machine and Server)
 7. Cloudfare(Hosting blog.iaditi.in)
 
-Project :
+# Project :
 Website that helps you add text, images, videos, and other elements required to create a blog.
